@@ -180,3 +180,12 @@
 2023-09-07 09:35:50,390 [INFO] CADModel:165 - CPN selected for project levelSTM32F407VGT6
 2023-09-07 09:35:50,390 [INFO] CADModel:114 - Register for checkConnection events
 2023-09-07 09:35:50,448 [INFO] OpenFileManager:328 - Restore cursor
+2023-09-07 09:40:07,975 [INFO] Activator:176 - 
+
+
+2023-09-07 09:40:07,976 [INFO] Activator:177 - !SESSION log4j initialized
+2023-09-07 09:40:11,130 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-09-07 09:40:31,994 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2023-09-07 09:40:31,995 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] SLF4J: Defaulting to no-operation (NOP) logger implementation
+2023-09-07 09:40:31,995 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2023-09-07 09:51:45,491 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] StartTraceHandler.execute(), success : Collect=true
